@@ -19,7 +19,7 @@ A simple Python script that automates sending messages on WhatsApp Web using Sel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WhatsappAutoMessenger.git
+   git clone https://github.com/Xhall1/WhatsappAutoMessenger.git
    cd WhatsappAutoMessenger
    ```
 
