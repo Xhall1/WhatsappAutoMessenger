@@ -45,7 +45,7 @@ A simple Python script that automates sending messages on WhatsApp Web using Sel
 2. Run the script:
 
    ```bash
-   python your_script_name.py
+   python script.py
    ```
 
 3. Scan the QR code on WhatsApp Web when prompted.
